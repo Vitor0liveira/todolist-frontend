@@ -32,7 +32,7 @@ Clone the project and access itself folder.
 
 ```bash
 $ git clone https://github.com/Vitor0liveira/todolist-frontend.git
-$ cd nlw-06-reactjs
+$ cd todolist-frontend
 ```
 
 To start it, follow steps below:
