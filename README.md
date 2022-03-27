@@ -5,14 +5,14 @@ This project was bootstrapped with [Building a Todo List App with Redux](https:/
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-<p align="center">
-  <img alt="TodoApp" src=".github/todo-lg.svg" width="160px">
-</p>
-
 <!-- <p align="center">
+  <img alt="TodoApp" src=".github/todo-lg.svg" width="160px">
+</p> -->
+
+<p align="center">
   <img src="https://img.shields.io/badge/ToDo-App--Todo--React-blueviolet" alt="Todo App" />
 </p>
- -->
+
 <h1 align="center">
     <img alt="TodoApp" src=".github/app.svg" />
 </h1>
