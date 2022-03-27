@@ -6,7 +6,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 <p align="center">
-  <img alt="TodoApp" src="../todolist-frontend/src/todo-lg.svg" width="160px">
+  <img alt="TodoApp" src=".github/todo-lg.svg" width="160px">
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@ You may also see any lint errors in the console.
 </p>
 
 <h1 align="center">
-    <img alt="TodoApp" src="../todolist-frontend/app.svg" />
+    <img alt="TodoApp" src=".github/app.svg" />
 </h1>
 
 <br>
