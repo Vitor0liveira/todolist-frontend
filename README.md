@@ -25,6 +25,8 @@ This project was developed with these technologies:
 
 - [React](https://reactjs.org)
 - [Redux](https://redux-toolkit.js.org/)
+- [React-Icons](https://react-icons.github.io/react-icons/)
+- [Framer](https://www.framer.com/)
 
 ## 🚀 How execute
 

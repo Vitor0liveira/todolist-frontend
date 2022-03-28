@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { connect } from "react-redux";
 import { addTodos } from "../redux/reducer";
 import { GoPlus } from 'react-icons/go';
+import { motion } from "framer-motion";
 
 const mapStateToProps = (state) => {
   return {
@@ -45,10 +46,13 @@ const Todos = (props) => {
 				className="todo-input"
         value={todo}
 			/>
-			<button className="add-btn" 
+			<motion.button 
+      whileHover={{ scale: 1.1 }}
+      whileTap={{ scale: 0.9 }}
+      className="add-btn" 
       onClick={() => add()}>
         <GoPlus />
-      </button>
+      </motion.button>
       <br />
 		</div>
 	);
