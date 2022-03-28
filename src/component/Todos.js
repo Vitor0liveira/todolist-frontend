@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { connect } from "react-redux";
 import { addTodos } from "../redux/reducer";
+import { GoPlus } from 'react-icons/go';
 
 const mapStateToProps = (state) => {
   return {
@@ -37,7 +38,6 @@ const Todos = (props) => {
 	// console.log('Todo text: ', props);
 	return (
 		<div className="addTodos">
-			<h1>Todos</h1>
 			<input
 				type="text"
 				placeholder="Add Todo"
@@ -47,7 +47,7 @@ const Todos = (props) => {
 			/>
 			<button className="add-btn" 
       onClick={() => add()}>
-        Add
+        <GoPlus />
       </button>
       <br />
 		</div>
